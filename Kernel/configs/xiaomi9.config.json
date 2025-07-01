@@ -1,10 +1,10 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi9KernelPoweredBySeparate",
-      "repo": "https://github.com/Separatee/AllinOneKernel",
-      "branch": "main",
-      "device": "cepheus",
+      "name": "holi",
+      "repo": "https://github.com/samoht83/android_kernel_oneplus_sm4350",
+      "branch": "Lineage-22.2",
+      "device": "holi",
       "defconfig": "cepheus_defconfig"
     },
     "toolchains": [
